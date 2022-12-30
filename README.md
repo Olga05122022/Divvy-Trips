@@ -1,4 +1,4 @@
-# Divvy-Trips
+# Cyclistic
 ![Capstone](https://user-images.githubusercontent.com/119863486/210062245-e2f3313e-b785-4972-8606-dd63a142e866.jpg)
 ![Capstone (2)](https://user-images.githubusercontent.com/119863486/210062325-288a537e-8a6b-4fd6-a1ea-0452bf8a29f1.jpg)
 
